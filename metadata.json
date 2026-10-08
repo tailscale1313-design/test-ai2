@@ -1,0 +1,6 @@
+{
+  "name": "Local AI Studio",
+  "description": "Offline-capable neural AI client for text summarization, sentiment analysis, and LLM text generation with local endpoint connectivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
